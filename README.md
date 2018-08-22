@@ -1,2 +1,2 @@
 # Demo
-some basic example of java
+some basic examples of java
